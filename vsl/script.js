@@ -48,9 +48,9 @@ document.addEventListener("DOMContentLoaded", function() {
 
     setTimeout(() => {
         const imagens = [
-            "https://raw.githubusercontent.com/Douglasbadigital/primeage.site/refs/heads/main/vsl/images/2PATCHES.png",
-            "https://raw.githubusercontent.com/Douglasbadigital/primeage.site/refs/heads/main/vsl/images/6PATCHES.png",
-            "https://raw.githubusercontent.com/Douglasbadigital/primeage.site/refs/heads/main/vsl/images/3PATCHES.png",
+            "https://raw.githubusercontent.com/Douglasbadigital/dontclosethis.site/refs/heads/main/vsl/images/2PATCHES.png",
+            "https://raw.githubusercontent.com/Douglasbadigital/dontclosethis.site/refs/heads/main/vsl/images/6PATCHES.png",
+            "https://raw.githubusercontent.com/Douglasbadigital/dontclosethis.site/refs/heads/main/vsl/images/3PATCHES.png",
             "https://cdn.elasticfunnels.io/123/assets/media/Group 507.png",
             "https://cdn.elasticfunnels.io/123/assets/media/MBP_BUTTON_1.png",
             "https://elasticfunnels-cdn.b-cdn.net/111/assets/cards.avif",
